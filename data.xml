@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<trains>
+    <train delay="12" id="IR1681">
+        <station departure="17:58">Brasov</station>
+        <station arrival="18:34" departure="18:43">Predeal</station>
+        <station arrival="18:52" departure="18:53">Azuga</station>
+        <station arrival="18:59" departure="19:00">Busteni</station>
+        <station arrival="19:09" departure="19:10">Sinaia</station>
+        <station arrival="19:25" departure="19:26">Comarnic</station>
+        <station arrival="19:39" departure="19:40">Campina</station>
+        <station arrival="20:02" departure="20:04">Ploiesti Vest</station>
+        <station arrival="20:42" departure="21:05">Bucuresti Nord</station>
+        <station arrival="21:47" departure="21:48">Lehliu</station>
+        <station arrival="22:09" departure="22:10">Ciulnita</station>
+        <station arrival="22:34" departure="22:35">Fetesti</station>
+        <station arrival="22:53" departure="22:54">Cernavoda Pod</station>
+        <station arrival="23:10" departure="23:11">Medgidia</station>
+        <station arrival="23:34">Constanta</station>
+    </train>
+    <train delay="30" id="IR1662">
+        <station departure="14:20">Iasi</station>
+        <station arrival="14:24" departure="14:25">Nicolina</station>
+        <station arrival="15:06" departure="15:07">Buhaiesti</station>
+        <station arrival="15:26" departure="15:28">Vaslui</station>
+        <station arrival="15:44" departure="15:45">Crasna</station>
+        <station arrival="16:17" departure="16:19">Barlad</station>
+        <station arrival="16:57" departure="17:12">Tecuci</station>
+        <station arrival="17:55" departure="17:57">Focsani</station>
+        <station arrival="18:39" departure="18:40">Ramnicu Sarat</station>
+        <station arrival="19:08" departure="19:09">Buzau</station>
+        <station arrival="19:43" departure="19:44">Mizil</station>
+        <station arrival="20:24" departure="20:25">Ploiesti Sud</station>
+        <station arrival="21:03">Bucuresti Nord</station>
+    </train>
+    <train delay="0" id="IR01668">
+        <station departure="22:30">Iasi</station>
+        <station arrival="22:34" departure="22:36">Nicolina</station>
+        <station arrival="23:17" departure="23:18">Buhaiesti</station>
+        <station arrival="23:37" departure="23:39">Vaslui</station>
+        <station arrival="23:55" departure="23:57">Crasna</station>
+        <station arrival="00:29" departure="00:31">Barlad</station>
+        <station arrival="01:09" departure="01:24">Tecuci</station>
+        <station arrival="02:08" departure="02:09">Focsani</station>
+        <station arrival="02:51" departure="02:52">Ramnicu Sarat</station>
+        <station arrival="03:20" departure="04:07">Buzau</station>
+        <station arrival="04:35" departure="04:36">Faurei</station>
+        <station arrival="05:00" departure="05:01">Spicu</station>
+        <station arrival="05:17" departure="05:18">Tandarei</station>
+        <station arrival="05:24" departure="05:25">Platonesti hc</station>
+        <station arrival="05:32" departure="05:33">Movila</station>
+        <station arrival="05:50" departure="05:51">Fetesti</station>
+        <station arrival="06:09" departure="06:10">Cernavoda Pod</station>
+        <station arrival="06:27" departure="06:28">Medgidia</station>
+        <station arrival="06:46" departure="06:47">Palas</station>
+        <station arrival="06:54">Constanta</station>
+    </train>
+    <train delay="0" id="IRN1667">
+        <station departure="22:54">Bucuresti Nord</station>
+        <station arrival="23:32" departure="23:33">Ploiesti Sud</station>
+        <station arrival="00:08" departure="00:09">Mizil</station>
+        <station arrival="00:42" departure="00:59">Buzau</station>
+        <station arrival="01:27" departure="01:28">Ramnicu Sarat</station>
+        <station arrival="02:07" departure="02:08">Focsani</station>
+        <station arrival="02:45" departure="03:00">Tecuci</station>
+        <station arrival="03:37" departure="03:39">Barlad</station>
+        <station arrival="04:08" departure="04:09">Crasna</station>
+        <station arrival="04:22" departure="04:24">Vaslui</station>
+        <station arrival="04:44" departure="04:45">Buhaiesti</station>
+        <station arrival="05:10" departure="05:11">Barnova</station>
+        <station arrival="05:27" departure="05:28">Nicolina</station>
+        <station arrival="05:32">Iasi</station>
+    </train>
+</trains>
